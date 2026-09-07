@@ -1,0 +1,7 @@
+{
+  "name": "node-cli-calculator",
+  "private": true,
+  "scripts": {
+    "test": "node --test src/tests/calculator.test.js"
+  }
+}
